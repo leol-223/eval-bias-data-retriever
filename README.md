@@ -21,4 +21,4 @@ The script is designed to retrieve a high amount of data (thousands of entries) 
 
 ### Usage and Ethics
 
-Usage instructions and the target institution's identity have been intentionally omitted. The code is provided here for transparency regarding the research methodology rather than for public redistribution or active scraping.
+Usage instructions and the institution's identity have been intentionally omitted. The code is provided here for transparency regarding the research methodology rather than for public redistribution or active scraping.
