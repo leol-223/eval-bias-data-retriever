@@ -1,5 +1,5 @@
 # Evaluation Bias Data Retriever
-This project, using Python, extracts and aggregates course evaluation data from a public university database into a readable CSV format. 
+This project extracts and aggregates public course evaluation data from a university's website into a comprehensive CSV file.
 
 This script and data it produced is part of a research project investigating biases in student feedback. The resulting dataset helped reveal trends in student feedback and responses to surveys.
 
