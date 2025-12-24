@@ -5,10 +5,10 @@ This script and data it produced is part of a research project investigating bia
 
 ### Implementation Details
 
-The script is designed to retrieve a high amount of data (thousands of entries) while being light on the university website's infrastructure.
+The script is designed to retrieve a high amount of data (thousands of entries) without spamming requests. This means it runs over a long period of time, with only minimal need for human intervention.
 
 *   **Extraction:** Automatic extraction of data from webpages, using Selenium and BeautifulSoup.
-*   **Session Persistence:** Uses a human-in-the-loop approach where session cookies are manually captured from a browser and injected into the automated instance. This bypasses bot-detection challenges.
+*   **Testing:** Uses basic tests to determine the quality of the data.
 *   **Ethics and Rate Limiting:** A minimum 30 second between requests delay is used, to abide by `robots.txt` rules
 
 ### Technical Stack
