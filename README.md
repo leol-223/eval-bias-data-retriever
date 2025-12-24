@@ -1,11 +1,11 @@
 # Evaluation Bias Data Retriever
 This project extracts and aggregates public course evaluation data from a university's website into a comprehensive CSV file.
 
-This script and data it produced is part of a research project investigating biases in student feedback. The resulting dataset helped reveal trends in student feedback and responses to surveys.
+This script and data it produced is part of a research project investigating biases in student feedback. The resulting dataset helped reveal trends in student feedback and responses to surveys over time.
 
 ### Implementation Details
 
-The script is designed to retrieve a high amount of data (thousands of entries) without spamming requests. This means it runs over a long period of time, with only minimal need for human intervention.
+The script is designed to retrieve a high amount of data (thousands of entries) without spamming requests. It runs over a long period of time, with only minimal need for human intervention.
 
 *   **Extraction:** Automatic extraction of data from webpages, using Selenium and BeautifulSoup.
 *   **Testing:** Uses basic tests to determine the quality of the data.
